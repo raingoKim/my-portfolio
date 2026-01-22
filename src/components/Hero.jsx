@@ -35,7 +35,7 @@ const Hero = () => {
           transition={{ duration: 0.8, delay: 0.4 }}
           className="text-lg md:text-xl text-gray-400 mt-8 max-w-2xl mx-auto"
         >
-          25년 이상의 IT 경험과 교육 전문성을 바탕으로<br />
+          20년 이상의 IT 경험과 교육 전문성을 바탕으로<br />
           미래 인재 양성을 위한 혁신적인 교육을 제공합니다
         </motion.p>
 

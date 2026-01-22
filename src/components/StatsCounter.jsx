@@ -40,8 +40,8 @@ const StatsCounter = () => {
   const isInView = useInView(ref, { once: true, margin: '-100px' })
 
   const stats = [
-    { label: 'IT 경력', value: 25, suffix: '년+', icon: '💼' },
-    { label: '자격증', value: 12, suffix: '종 이상', icon: '🏆' },
+    { label: 'IT 경력', value: 20, suffix: '년+', icon: '💼' },
+    { label: '자격증', value: 6, suffix: '종 이상', icon: '🏆' },
     { label: '교육 기관', value: 50, suffix: '곳+', icon: '🎓' },
   ]
 
